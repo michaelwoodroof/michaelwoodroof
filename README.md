@@ -31,6 +31,6 @@
 <!-- Credit to https://github.com/anuraghazra/github-readme-stats -->
 <div>
 	<h4>Stats</h4>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelwoodroof&count_private=true&show_icons=true&theme=vue" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwoodroof&langs_count=5&theme=vue" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=michaelwoodroof&count_private=true&show_icons=true&theme=vue-dark" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwoodroof&langs_count=5&theme=vue-dark" />
 </div>
