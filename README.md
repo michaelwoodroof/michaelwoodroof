@@ -1,11 +1,11 @@
 <h3>Hello, I'm Michael!</h3>
-<p>I am a dedicated Mobile and Web based programmer with a keen interest in: Kotlin and Javascript. I particularly enjoy Front-End development as I love designing and creating UX/UI.</p>
+<p>I am a dedicated Mobile and Web based programmer with a keen interest in: Kotlin and Javascript. I particularly enjoy Front-End development as I love designing and creating UI/UX.</p>
 
 <div>
   <h4>My Languages & Technologies</h4>
-  <img src="python.png" width="35" height="35" />
   <img src="kotlin.png" width="35" height="35" />
   <img src="javascript.png" width="35" height="35" />
+  <img src="python.png" width="35" height="35" />
   <img src="react.png" width="35" height="35" />
   <img src="mongodb.png" width="35" height="35" />
   <img src="ubuntu.png" width="35" height="35" />
