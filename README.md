@@ -8,7 +8,6 @@
   <img src="python.png" width="35" height="35" />
   <img src="react.png" width="35" height="35" />
   <img src="mongodb.png" width="35" height="35" />
-  <img src="ubuntu.png" width="35" height="35" />
 </div>
 
 <h4>What I'm Working On</h4>
