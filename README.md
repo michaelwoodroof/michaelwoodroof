@@ -10,7 +10,7 @@
 </div>
 
 <h4>Technologies I am Learning</h4>
-<p>I am actively improving my knowledge in the React framework to extend my knowledge in web based programming. I am also learning more about machine learning by utilising TensorFlow due to having an interest in machine learning and wanting to know more about how to practically implement this.</p>
+<p>I am continuning to reinforce my knowledge in UI tests in Jetpack Compose. Also, looking into learning 3D modelling with Blender.</p>
 <h4>How to Reach Me</h4>
 
 <div>
