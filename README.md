@@ -1,5 +1,5 @@
 <h3>Hello, I'm Michael!</h3>
-<p>I am a dedicated mobile programmer with a keen interest in Kotlin. I particularly enjoy frontend development as I love designing and creating.</p>
+<p>I am a dedicated mobile programmer with a keen interest in Kotlin. I have a deep interest in accessibility and love ensuring that applications are accessible so apps can be used by all. I particularly enjoy frontend development as I love designing and creating.</p>
 
 <div>
   <h4>My Languages & Technologies</h4>
